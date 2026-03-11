@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/GordoIT/tejFPVblog.git/</loc>
+    <loc>http://localhost:1313/tejFPVblog/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GordoIT/tejFPVblog.git/posts/004_startujemy_na_whoopofpoland_radomsko_2026/</loc>
+    <loc>http://localhost:1313/tejFPVblog/posts/004_startujemy_na_whoopofpoland_radomsko_2026/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GordoIT/tejFPVblog.git/posts/</loc>
+    <loc>http://localhost:1313/tejFPVblog/posts/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GordoIT/tejFPVblog.git/posts/003_zwolnienia_dla_pilotow_fpv/</loc>
+    <loc>http://localhost:1313/tejFPVblog/posts/003_zwolnienia_dla_pilotow_fpv/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GordoIT/tejFPVblog.git/posts/002_whoopofpoland_wroclaw_2026/</loc>
+    <loc>http://localhost:1313/tejFPVblog/posts/002_whoopofpoland_wroclaw_2026/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GordoIT/tejFPVblog.git/posts/001-poczatki-klubu-tej-fpv/</loc>
+    <loc>http://localhost:1313/tejFPVblog/posts/001-poczatki-klubu-tej-fpv/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GordoIT/tejFPVblog.git/categories/</loc>
+    <loc>http://localhost:1313/tejFPVblog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/GordoIT/tejFPVblog.git/tags/</loc>
+    <loc>http://localhost:1313/tejFPVblog/tags/</loc>
   </url>
 </urlset>
