@@ -11,6 +11,7 @@ caches:
     dir: :cacheDir/images
 
 params:
+  author: Tej FPV
   profileMode:
     enabled: false
   ShowShareButtons: false
