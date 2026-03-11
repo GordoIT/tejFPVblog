@@ -1,9 +1,10 @@
-baseURL: https://github.com/GordoIT/tejFPVblog.git
+baseURL: https://gordoit.github.io/tejFPVblog/
 languageCode: en-us
 title: Blog klubu Tej FPV
 theme: ["PaperMod"]
 
-author: Tej FPV
+author:
+  name: Tej FPV
 
 caches:
   images:
