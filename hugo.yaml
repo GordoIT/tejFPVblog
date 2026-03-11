@@ -1,7 +1,11 @@
-baseURL: https://example.org/
+baseURL: https://github.com/GordoIT/tejFPVblog.git
 languageCode: en-us
 title: Blog klubu Tej FPV
 theme: ["PaperMod"]
+
+caches:
+  images:
+    dir: :cacheDir/images
 
 params:
   profileMode:
@@ -9,6 +13,8 @@ params:
   ShowShareButtons: false
   defaultTheme: light
   disableThemeToggle: true
+  cover:
+    responsiveImages: true
 
   assets:
     disableFingerprinting: true
