@@ -3,6 +3,8 @@ languageCode: en-us
 title: Blog klubu Tej FPV
 theme: ["PaperMod"]
 
+author: Tej FPV
+
 caches:
   images:
     dir: :cacheDir/images
