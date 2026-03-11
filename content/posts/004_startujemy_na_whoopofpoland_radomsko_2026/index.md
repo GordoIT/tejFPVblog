@@ -27,11 +27,9 @@ W zawodach w klasie MIX wzięło udział 39 zawodników z całej Polski. Klasa M
 
 W tej klasie, kolejni poznańscy zawodnicy zajęli następujące miejsca:
 
-8. Polop
-
-15.  Paskuda
-
-20.  Chicken
+ #8 Polop  
+ #15  Paskuda  
+ #20  Chicken  
 
 #### Najlepsza trójka w klasie ELITE:
 

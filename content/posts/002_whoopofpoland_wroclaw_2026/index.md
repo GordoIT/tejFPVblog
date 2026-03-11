@@ -26,10 +26,10 @@ W zawodach w klasie MIX wzięło udział 34 zawodników z całej Polski. Klasa M
 | 🥈 2 | Kowal |
 | 🥉 3 | Mociu |
 
-W tej klasie poznańscy piloci uplasowali się na miejscach:
-6. Polop
-7. Paskuda
-19. Tomicki
+W tej klasie poznańscy piloci uplasowali się na miejscach:  
+#6. Polop  
+#7. Paskuda  
+#19. Tomicki  
 
 #### Najlepsza trójka w klasie ELITE:
 
@@ -43,10 +43,10 @@ Reprezentujący nas Gordo wleciał  na 6 miejcu w tej klasie 💪
 
 ### Relacja
 
-Transmisja z całego wydarzenia dostępna jest na oficjalnym kanale ligi Whoop of Poland...
+Transmisja z całego wydarzenia dostępna jest na oficjalnym kanale ligi Whoop of Poland ...  
 
-{{< youtube LQffVI5ZmjU >}}
-
-... a na profilu instagram dostępna rolka ze zdjęciami i pełną tabelą wyników.
+{{< youtube LQffVI5ZmjU >}}  
+  
+   ... a na profilu instagram dostępna rolka ze zdjęciami i pełną tabelą wyników.
 
 {{< instagram DTqtI6cDHc1 >}}
