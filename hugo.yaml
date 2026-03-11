@@ -1,0 +1,39 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Blog klubu Tej FPV
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: false
+  ShowShareButtons: false
+  defaultTheme: light
+  disableThemeToggle: true
+
+  assets:
+    disableFingerprinting: true
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
+  label:
+    text: "Blog Tej FPV"
+    icon: "/apple-touch-icon.png"
+    iconheight: 55
+
+menu:
+  main:
+    - name: www
+      url: "https://tejfpv.pl"
+      weight: 1
+    - name: Instagram
+      url: "https://www.instagram.com/tej.fpv?igsh=d2VzbWdrbzBraWk=&utm_source=qr"
+      weight: 2
+    - name: "Facebook"
+      url: "https://www.facebook.com/TejFPV?mibextid=wwXIfr&rdid=RxlaNXD54B6FsDV6&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1AU26y8Hhn%2F%3Fmibextid%3DwwXIfr"
+      weight: 3
+    - name: "Youtube"
+      url: "https://www.youtube.com/@TejFPV"
+      weight: 4
+

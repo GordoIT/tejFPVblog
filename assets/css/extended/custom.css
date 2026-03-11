@@ -1,0 +1,19 @@
+/* Page background */
+body {
+    background-color: white !important;
+}
+
+/* Top navigation menu */
+.nav {
+    background-color: #6A4C93 !important;
+}
+
+/* Menu text color */
+.nav a {
+    color: white !important;
+}
+
+/* Hover effect (optional but recommended) */
+.nav a:hover {
+    opacity: 0.85;
+}
