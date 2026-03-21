@@ -52,6 +52,93 @@
 &lt;p&gt;W tej klasie, kolejni poznańscy zawodnicy zajęli następujące miejsca:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Zmiany w przepisach dotyczące lotów FPV</title>
+      <link>http://localhost:1313/posts/003_zwolnienia_dla_pilotow_fpv/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/003_zwolnienia_dla_pilotow_fpv/</guid>
+      <description>&lt;p&gt;Artykuł skierowany jest do pilotów FPV, którzy samodzielnie budują swoje fpv&amp;rsquo;ałki lub kupują zestawy sprowadzone z Chin. Dotyczy więc wykorzystania dronów nieoznaczonych klasą C0, C1, C2 itd. Z niego dowiecie się jak legalnie używać Waszych maszyn.&lt;/p&gt;
+&lt;h3 id=&#34;przydatne-pojęcia&#34;&gt;Przydatne pojęcia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt; &lt;strong&gt; DIY &lt;/strong&gt; - (Do It Yourself) - dron DIY to dron skonstruowany samodzielnie oraz taki bez klasy C0, C1 itd.,&lt;/li&gt;
+  &lt;li&gt; &lt;strong&gt; AGL &lt;/strong&gt; - (Above Ground Level) wysokość mierzona względem terenu, nad którym dron w danej chwili przelatuje (a nie nad poziomem morza czy miejscem startu),&lt;/li&gt;
+  &lt;li&gt; &lt;strong&gt; osoba postronna &lt;/strong&gt; - osoba niezaangażowana w operacje,&lt;/li&gt;
+  &lt;li&gt; &lt;strong&gt; zgromadzenie osób &lt;/strong&gt; - takie zgrupowanie osób, w którym jednoskta nie może się swobodnie przemieszczać z powodu tłoku.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;zasady-lotów-fpv-obowiązujące-w-polsce-od-12-lutego-2026-roku&#34;&gt;Zasady lotów FPV obowiązujące w Polsce od 12 lutego 2026 roku&lt;/h3&gt;
+&lt;table style=&#34;border-collapse: collapse; width: 100%;&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;rodzaj drona&lt;/th&gt;
+      &lt;th style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;DIY do 250 g&lt;/th&gt;
+      &lt;th style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;DIY do 25 kg&lt;/th&gt;
+    &lt;/th&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;wymagane kompetencje&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;A1&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;A3&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;dozwolona prędkość&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;19 m/s&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt; brak ograniczeń &lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;lot w obszarze zabudowanym&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;nie jest zabroniony&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;z zachowaniem co najmniej 150 metrów w poziomie od terenów mieszkaniowych, użytkowych, przemysłowych lub rekreacyjnych&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;odległość pozioma od osób postronnych&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;bezpieczna, wg rozsądku pilota&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;lot nad obszarem, na którym można przyjąć, że nie pojawi się żadna osoba postronna&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;przelot nad głową osoby postronnej&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;nie jest zabroniony&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;ZABRONIONY&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;przelot nad zgromadzeniami osób&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;ZABRONIONY&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;ZABRONIONY&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;obserwator&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;niewymagany&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;niewymagany&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;maksymalna odległość od pilota&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;200 m&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;500 m&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;maksymalna wysokość lotu&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;50 m AGL&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;50 m AGL&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;czy muszę mieć OC?&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;nie, jest dobrowolne&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;tak, na kwotę minimum 50 000 SRD&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;wymagany Check-In w aplikacji &lt;a href=&#34;https://www.pansa.pl/dronetower/&#34; target=&#34;_blank&#34;&gt;DroneTower&lt;/a&gt;&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;TAK&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;TAK&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;numer operatora na dronie&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;WYMAGANY&lt;/th&gt;
+      &lt;td style=&#34;border: 1px solid #ccc; padding: 8px;&#34;&gt;WYMAGANY&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Kompetencje A1/A3 nadawane są za jednym razem pilotom, którzy przejdą darmowy kurs i zaliczą darmowy egzamin na platformie &lt;a href=&#34;https://drony.gov.pl&#34; target=&#34;_blank&#34;&gt;drony.gov.pl&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Piloci Tej FPV po raz pierwszy razem na Whoop of Poland</title>
       <link>http://localhost:1313/posts/002_whoopofpoland_wroclaw_2026/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>

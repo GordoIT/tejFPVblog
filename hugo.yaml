@@ -47,3 +47,7 @@ menu:
       url: "https://www.youtube.com/@TejFPV"
       weight: 4
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
