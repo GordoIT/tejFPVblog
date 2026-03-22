@@ -76,7 +76,7 @@ Artykuł skierowany jest do pilotów FPV, którzy samodzielnie budują swoje fpv
     <tr>
       <td style="border: 1px solid #ccc; padding: 8px;">czy muszę mieć OC?</th>
       <td style="border: 1px solid #ccc; padding: 8px;">nie, jest dobrowolne</th>
-      <td style="border: 1px solid #ccc; padding: 8px;">tak, na kwotę minimum 50 000 SRD</th>
+      <td style="border: 1px solid #ccc; padding: 8px;">tak, na kwotę minimum 50 000 <a href="https://pl.wikipedia.org/wiki/Specjalne_prawa_ciągnienia?wprov=srpw1_0" target="_blank">SDR</a></th>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 8px;">wymagany Check-In w aplikacji <a href="https://www.pansa.pl/dronetower/" target="_blank">DroneTower</a></th>
@@ -96,7 +96,7 @@ Kompetencje A1/A3 nadawane są za jednym razem pilotom, którzy przejdą darmowy
 
 ### Czy do lotów FPV potrzebujesz wyższych komeptencji takich jak STS? ###
 
-Jedyną sytuacją, w której pilot FPV skorzysta z posiadania kompetencji STS jest potrzeba wykonania lotu w strefie CTR, w odległości mniejszej niż 1 km od płotu lotniska. W tej przestrzeni Polska Agencja Żeglugi Powietrznej nie wydaje zgód na lot pilotom posiadającym TYLKO kompetencje A1/A3 czy A2. Więcej na ten dowiesz się na stronie <a href="https://www.pansa.pl/zasady-wykonywania-lotow-bsp-w-kategorii-szczegolnej/" target="_blank">pansa.pl</a>.
+Jedyną sytuacją, w której pilot FPV skorzysta z posiadania kompetencji STS jest potrzeba wykonania lotu w strefie CTR, w odległości mniejszej niż 1 km od płotu lotniska. W tej przestrzeni Polska Agencja Żeglugi Powietrznej nie wydaje zgód na lot pilotom posiadającym TYLKO kompetencje A1/A3 czy A2. Więcej na ten temat dowiesz się na stronie <a href="https://www.pansa.pl/zasady-wykonywania-lotow-bsp-w-kategorii-szczegolnej/" target="_blank">pansa.pl</a>.
 
 
 Źródło:
