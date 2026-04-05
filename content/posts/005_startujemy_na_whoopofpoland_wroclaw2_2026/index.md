@@ -1,7 +1,7 @@
 ---
 date: '2026-03-28'
 draft: false
-title: 'Piloci Tej FPV startują na Whoop of Poland - ponownie Wrocławiu'
+title: 'Piloci Tej FPV startują na Whoop of Poland - ponownie we Wrocławiu'
 author: Gordo
 cover:
   image: 'cover_005_startujemy_na_whoop_of_poland_wroclaw_2_2026_1.jpg'
@@ -19,13 +19,13 @@ W zawodach w klasie MIX wzięło udział 40 zawodników z całej Polski oraz Cze
 
 ### Wyniki
 
-#### Najlepsza trójką w klasie SPORT:
+#### Najlepsza trójka w klasie SPORT:
 
-| Miejsce | Pilot | Klub |
-|-------:|------|------|
-| 🥇 1 | Hatch FPV | |
-| 🥈 2 | Mociu | |
-| 🥉 3 | Hubus | |
+| Miejsce | Pilot |
+|-------:|------|
+| 🥇 1 | Hatch FPV |
+| 🥈 2 | Mociu |
+| 🥉 3 | Hubus |
 
 W tej klasie, kolejni poznańscy zawodnicy zajęli następujące miejsca:
 
