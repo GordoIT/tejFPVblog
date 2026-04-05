@@ -2,6 +2,7 @@
 date: '2026-03-28'
 draft: false
 title: 'Piloci Tej FPV startują na Whoop of Poland - ponownie Wrocławiu'
+author: Gordo
 cover:
   image: 'cover_005_startujemy_na_whoop_of_poland_wroclaw_2_2026_1.jpg'
 ---

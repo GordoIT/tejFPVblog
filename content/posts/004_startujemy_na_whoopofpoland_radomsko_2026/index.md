@@ -2,6 +2,7 @@
 date: '2026-03-02'
 draft: false
 title: 'Piloci Tej FPV startują na Whoop of Poland - Radomsko 2026'
+author: Gordo
 cover:
   image: 'cover_004_startujemy_na_whoop_of_poland_radomsko_2026.jpg'
 ---
