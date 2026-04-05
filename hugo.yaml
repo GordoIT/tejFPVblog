@@ -11,7 +11,7 @@ caches:
     dir: :cacheDir/images
 
 params:
-  author: Tej FPV
+  author: ["Tej FPV", "Gordo", "Janek"]
   profileMode:
     enabled: false
   ShowShareButtons: false
@@ -31,6 +31,17 @@ params:
     text: "Blog Tej FPV"
     icon: "/apple-touch-icon.png"
     iconheight: 55
+
+  socialIcons:
+    - name: Instagram
+      url: "https://www.instagram.com/tej.fpv?igsh=d2VzbWdrbzBraWk=&utm_source=qr"
+      weight: 2
+    - name: "Facebook"
+      url: "https://www.facebook.com/TejFPV?mibextid=wwXIfr&rdid=RxlaNXD54B6FsDV6&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1AU26y8Hhn%2F%3Fmibextid%3DwwXIfr"
+      weight: 3
+    - name: "Youtube"
+      url: "https://www.youtube.com/@TejFPV"
+      weight: 4
 
 menu:
   main:

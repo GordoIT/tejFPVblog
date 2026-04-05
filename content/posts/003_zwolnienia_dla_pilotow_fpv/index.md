@@ -2,6 +2,7 @@
 date: '2026-02-15'
 draft: false
 title: 'Zmiany w przepisach dotyczące lotów FPV'
+author: 'Gordo'
 cover:
   image: 'cover_003_zmiany_w_przepisach_dla_pilotow_fpv.jpg'
 ---
