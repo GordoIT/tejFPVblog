@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/005_startujemy_na_whoopofpoland_wroclaw2_2026/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/006_finaly_whoop_of_poland_2026/</loc>
+    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/005_startujemy_na_whoopofpoland_wroclaw2_2026/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/004_startujemy_na_whoopofpoland_radomsko_2026/</loc>
