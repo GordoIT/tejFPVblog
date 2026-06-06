@@ -55,9 +55,8 @@ Każda z czterech klas miała finał, w którym rywalizowali ze sobą 4 najszybs
 
 W tej klasie, kolejni poznańscy zawodnicy zajęli następujące miejsca:
 
- #7 Bunias  
- #8 Ramcel  
- #14 Paskuda 
+ #7 Remek <-- nasz najmłodszy zawodnik  
+ #8 Jacohl <-- nasz debiutant  
 
 #### Najlepsza trójka w klasie SPORT:
 
@@ -69,8 +68,9 @@ W tej klasie, kolejni poznańscy zawodnicy zajęli następujące miejsca:
 
 W tej klasie, kolejni poznańscy zawodnicy zajęli następujące miejsca:
 
- #7 Remek <-- nasz najmłodszy zawodnik  
- #8 Jacohl <-- nasz debiutant  
+ #7 Bunias  
+ #8 Ramcel  
+ #14 Paskuda 
 
 #### Najlepsza trójka w klasie Advanced:
 
