@@ -97,7 +97,12 @@ Kompetencje A1/A3 nadawane są za jednym razem pilotom, którzy przejdą darmowy
 
 ### Czy do lotów FPV potrzebujesz wyższych komeptencji takich jak STS? ###
 
-Jedyną sytuacją, w której pilot FPV skorzysta z posiadania kompetencji STS jest potrzeba wykonania lotu w strefie CTR, w odległości mniejszej niż 1 km od płotu lotniska. W tej przestrzeni Polska Agencja Żeglugi Powietrznej nie wydaje zgód na lot pilotom posiadającym TYLKO kompetencje A1/A3 czy A2. Więcej na ten temat dowiesz się na stronie <a href="https://www.pansa.pl/zasady-wykonywania-lotow-bsp-w-kategorii-szczegolnej/" target="_blank">pansa.pl</a>.
+Jedyną sytuacją, w której pilot FPV skorzysta z posiadania kompetencji STS jest potrzeba wykonania lotu w strefie CTR:
+- w odległości mniejszej niż 1 km od płotu lotniska,
+- w odległości 1-6 km od płotu lotniska i powyżej 50 m AGL,
+- w odległości większej niż 6 km od płotu lotniska i powyżej 100 m AGL.   
+
+W w/w przestrzeniach Polska Agencja Żeglugi Powietrznej nie wydaje zgód na lot pilotom posiadającym TYLKO kompetencje A1/A3 czy A2. Więcej na ten temat dowiesz się na stronie <a href="https://www.pansa.pl/zasady-wykonywania-lotow-bsp-w-kategorii-szczegolnej/" target="_blank">pansa.pl</a>.
 
 
 Źródło:
