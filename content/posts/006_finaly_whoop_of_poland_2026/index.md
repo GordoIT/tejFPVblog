@@ -14,6 +14,7 @@ W dniach 23-24 maja w Łódzkim Instytucie Postępowania Twórczego odbyły się
 - Gordo,
 - Jacohl,
 - MGR,
+- Paskuda,
 - Polop,
 - Ramcel, 
 - Remek.
